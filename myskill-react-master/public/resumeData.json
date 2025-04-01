@@ -1,0 +1,148 @@
+{
+  "main": {
+    "name": "Habib Al Huda",
+    "description": "I am a Junior Programmer",
+    "image": "profilepic.jpg",
+    "github": "https://github.com/habibalhuda",
+    "project": "https://github.com/habibalhuda",
+    "bio": "Ini adalah section biografi aku",
+    "contactmessage": "Hello, I'm here",
+    "email": "myemail@gmail.com",
+    "phone": "895-3609-27053",
+    "address": {
+      "street": "Jl Ratu Sepudak",
+      "city": "Singkawang",
+      "state": "West Kalimantan",
+      "zip": "79115"
+    },
+    "website": "https://github.com/habibalhuda",
+    "resumedownload": "https://github.com/habibalhuda",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/habib-al-huda-231b77234",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/habib.alhuda",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/habibalhuda",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Universitas Ahmad Dahlan",
+        "degree": "Bachelor degree of Computer Science",
+        "graduated": "May 2025"
+      },
+      {
+        "school": "SMA 10 Singkawang",
+        "degree": "Science",
+        "graduated": "2018"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Javascript",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "80%"
+      },
+      {
+        "name": "PHP",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My travel blog for my post-university",
+        "image": "01.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "02.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "03.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "05.jpg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "06.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "01.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "02.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "03.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "05.jpg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "06.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
